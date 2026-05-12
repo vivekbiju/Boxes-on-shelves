@@ -1,3 +1,7 @@
+<img width="1523" height="737" alt="image" src="https://github.com/user-attachments/assets/d82b296b-d44a-488f-8df5-c5f64862f871" />
+
+
+
 # 📦 Boxes on Shelves: NSGA-II Optimizer
 
 This project is a multi-objective optimization tool designed to arrange boxes of various sizes onto warehouse shelves. It uses the **NSGA-II (Non-dominated Sorting Genetic Algorithm II)** to find the best balance between maximizing space usage and maintaining a stable load distribution across shelves.
